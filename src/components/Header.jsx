@@ -13,7 +13,7 @@ const Header = () => (
       </div>
       <ul>
         <li><a href="/">Cuenta</a></li>
-        <li><a href="/">Cerrar Sesión</a></li>
+        <li><Link to="/login">Cerrar Sesión</Link></li>
       </ul>
     </div>
   </header>
